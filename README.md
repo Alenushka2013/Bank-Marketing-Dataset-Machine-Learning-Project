@@ -38,7 +38,7 @@ The dataset includes demographic features, historical contact information, and m
 
 ## 📊 Results
 
-![Alt text]([path_to_image](https://github.com/Alenushka2013/Bank-Marketing-Dataset-Machine-Learning-Project/blob/main/Results_of_experiments.jpg))
+![Alt text](https://github.com/Alenushka2013/Bank-Marketing-Dataset-Machine-Learning-Project/blob/main/Results_of_experiments.jpg)
 
 - Accuracy: **90%**  
 - F1-score for class “1”: **0.37**  
