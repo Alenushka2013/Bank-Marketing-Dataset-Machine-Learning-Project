@@ -40,13 +40,6 @@ The dataset includes demographic features, historical contact information, and m
 
 ![Alt text](https://github.com/Alenushka2013/Bank-Marketing-Dataset-Machine-Learning-Project/blob/main/Results_of_experiments.jpg)
 
-- Accuracy: **90%**  
-- F1-score for class “1”: **0.37**  
-- Confusion matrix:  
-  |               | Predicted 0 | Predicted 1 |
-  |---------------|------------|------------|
-  | Actual 0      | 7151       | 157        |
-  | Actual 1      | 684        | 244        |
 
 ## 💡 Conclusions
 - Macroeconomic indicators are the most influential factors for campaign outcomes.  
